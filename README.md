@@ -1,1 +1,49 @@
-# myfavouritemovie
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>favofilm</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="header"><h1>Sleeptoken</h1></header>
+    <p>Sleep Token are an English rock band formed in London in 2016. Its members remain anonymous by wearing masks. After self-releasing their debut EP One in 2016, the band signed with Basick Records and issued a follow-up EP, Two, the next year. The group signed with Spinefarm Records and released their first full-length album Sundowning in 2019, which was followed in 2021 by This Place Will Become Your Tomb. A third album, Take Me Back to Eden, was released in May 2023. Their fourth album, Even in Arcadia, was released in May 2025, through RCA Records.</p>
+    
+    <hr>
+    
+    <h2>Vessel</h2>
+    <p>Vessel's approach to music is influenced by a diverse range of artists and genres, blending elements from Bon Iver, Deftones, and Meshuggah into his work. His lyrics often weave in spiritual and mythological themes, particularly focusing on a deity named “Sleep.” This rich tapestry of personal and artistic influences creates the unique sound that defines Sleep Token, drawing fans into their mystical and emotive world.</p>
+    <p>Before stepping into the spotlight as Vessel, Leo George Faulkner had already immersed himself in the music scene. He explored his artistry through a solo project named Dusk and collaborated in a band called Blacklit Canopy alongside Gemma Matthews. His identity as Vessel was subtly hinted at in his lyrics and further confirmed by registrations with the American Society of Composers, Authors, and Publishers (ASCAP). The ASCAP Repertory lists contributions from both Leo and Adam Pedder, solidifying their roles in shaping Sleep Token's unique sound.</p>
+<img class="vessel" src="foto/vessel.jpg" alt="Vessel" height="980px" width="1480px">
+<p>Vessel in Berlin at rock im park</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJnFvT8gi_I?si=ZyDorh2BgIIpXQG4" title="YouTube video player" frameborder="40px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<p>@eri.bulletproof
+2 maanden geleden
+Dear Vessel, your chords will never be boring.</p>
+
+<p>@sandcake
+2 maanden geleden
+The stage, the lighting... it all looks better than a Netflix Show.</p>
+
+
+<p>@sarainarcadia
+2 maanden geleden
+“Can't always be killin the game” kills the game</p>
+
+
+<p>@hb9152
+2 maanden geleden
+You DID kill the game, Vessel. 🙌🏻</p>
+
+<hr> </hr>
+
+<h3>The summoning live</h3>
+<p>Sleep Token at Mission Ballroom, Denver, CO, USA</p>
+<p>Tour: North American Rituals</p>
+<p>September 25, 2023</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKfIjIH_3WQ?si=l7pATWYIP81UCEr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</body>
+</html>
